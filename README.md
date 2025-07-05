@@ -1,4 +1,4 @@
-📊 Netflix PowerBI (Interactive Dashboard for analysing overall rating and profits)
+#📊 Netflix PowerBI (Interactive Dashboard for analysing overall rating and profits)
 
 An interactive Power BI (or Python/Plotly/Dash) dashboard that visualizes and analyzes Netflix’s extensive content library. This project provides insights into content trends, genres, ratings, release patterns, and more—helping users explore how Netflix has evolved over time.
 
